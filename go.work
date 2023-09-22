@@ -1,0 +1,27 @@
+go 1.18
+
+use (
+	./atomic
+	./bcrypt
+	./channels-fan_in
+	./channels-fanout
+	./channels-snd-recieve
+	./channels_select
+	./concurrency
+	./encoding
+	./error-handling
+	./helloworld
+	./helloworld/repeatwords
+	./json-marshal
+	./json-unmarshal
+	./mutex
+	./pointers
+	./ranging-over-channel
+	./runtime
+	./sorting
+	./sorting-by-age
+	./sorting-by-name
+	./testing
+// ./unmarshal-excer1
+
+)
